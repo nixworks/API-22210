@@ -1,0 +1,1 @@
+/* 8 bit xxx00000_xxxxx | xxx = init (human readable), 00000 = code ( machine readable ) | code overlap ( A, B, C, D, E, F ) | xxxxx . xxx */
